@@ -104,5 +104,5 @@ PIDDIR="/var/run"
 
 ###  Troubleshooting 
 
-1. Check whether you enabled port 9000 in EC2 instance security group
+1.. Check whether you enabled port 9000 in EC2 instance security group
 2. Check whether you enabled EC2 instance IP range in RDS security group
